@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MultiTodo/static/css/main.34de6062.chunk.css",
+    "main.js": "/MultiTodo/static/js/main.3b00468c.chunk.js",
+    "main.js.map": "/MultiTodo/static/js/main.3b00468c.chunk.js.map",
+    "runtime~main.js": "/MultiTodo/static/js/runtime~main.74fb049b.js",
+    "runtime~main.js.map": "/MultiTodo/static/js/runtime~main.74fb049b.js.map",
+    "static/js/2.ae4fd101.chunk.js": "/MultiTodo/static/js/2.ae4fd101.chunk.js",
+    "static/js/2.ae4fd101.chunk.js.map": "/MultiTodo/static/js/2.ae4fd101.chunk.js.map",
+    "index.html": "/MultiTodo/index.html",
+    "precache-manifest.a0500abc33dd429dd8ff3d5977777cb2.js": "/MultiTodo/precache-manifest.a0500abc33dd429dd8ff3d5977777cb2.js",
+    "service-worker.js": "/MultiTodo/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/MultiTodo/static/css/main.34de6062.chunk.css.map"
+  }
+}
